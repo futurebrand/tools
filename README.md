@@ -1,3 +1,5 @@
+<img src="https://www.futurebrand.com/build/images/futurebrand-logo-2017.svg" width="250" height="33" alt="FutureBrand" />
+
 # FutureBrand Tools
 
 ## Commands
@@ -38,4 +40,3 @@ We are using [np](https://github.com/sindresorhus/np) and to release a new npm p
 ```bash
 npm run release
 ```
-
