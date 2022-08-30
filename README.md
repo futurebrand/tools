@@ -5,7 +5,7 @@
 To run TSDX, use:
 
 ```bash
-npm start # or yarn start
+npm start
 ```
 
 This builds to `/dist` and runs the project in watch mode so any edits you save inside `src` causes a rebuild to `/dist`.
@@ -33,4 +33,9 @@ Two actions are added by default:
 
 ## Publishing to NPM
 
-We recommend using [np](https://github.com/sindresorhus/np).
+We are using [np](https://github.com/sindresorhus/np) and to release a new npm package version, use:
+
+```bash
+npm run release
+```
+
